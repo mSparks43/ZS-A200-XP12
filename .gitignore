@@ -1,0 +1,7 @@
+objects/Cabin.obj
+objects/Fuselage.obj
+*prefs.txt
+.DS_Store
+*/.DS_Store
+*.acf~
+
